@@ -6,8 +6,8 @@ Portofolio voor semester 3 van fontys HBO-ICT
 - [Documentation_IP_S3](https://link-url-here.org)
 
 **Repositories**
-- [Front-end applicatie in React.js](https://link-url-here.org)
-- [Back-end applicatie in asp.net web api](https://link-url-here.org)
+- [Front-end applicatie in React.js](https://github.com/Espilonius/front-end_PartyGame_S3)
+- [Back-end applicatie in asp.net web api](https://github.com/Espilonius/API_PartyGame_S3)
 
 ### Groep project
 **Repositories**
