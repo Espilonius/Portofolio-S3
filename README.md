@@ -3,7 +3,7 @@ Portofolio voor semester 3 van fontys HBO-ICT
 ## Projecten
 ### Individueel project
 **Documentatie**
-- [Documentation_IP_S3](https://link-url-here.org)
+- [Documentation_IP_S3](https://github.com/Espilonius/Portofolio-S3/blob/main/Documentatie/IP-Semester_3.md)
 
 **Repositories**
 - [Front-end applicatie in React.js](https://github.com/Espilonius/front-end_PartyGame_S3)
