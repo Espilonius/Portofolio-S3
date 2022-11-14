@@ -33,7 +33,8 @@ Het back-end project ga ik maken in het asp.net framework.
 
      - De benodigde velden bestaan uit: welke vragen er in kunnen zitten, welke opdrachten er in de game kunnen zitten, hoeveel rondes er moeten worden gespeeld en met hoeveel spelers de game wordt gespeeld.
 - Na het succesvol aanmaken van een nieuw game wordt de gebruiker verwezen naar een ander scherm.
-- Als niet alle benodigde velden zijn ingevuld dan wordt er een melding gegeven aan de gebruiker date er geen nieuw spel kan worden gestart.
+- Als niet alle benodigde velden zijn ingevuld dan wordt er een melding gegeven aan de gebruiker dat er geen nieuw spel kan worden gestart.
+- Er moet een good-flow en Bad-flow zijn getest.
 
 **US3:** Als een gebruiker wil ik de optie hebben om een nieuwe lijst aan te maken van vragen of opdrachten zodat ik deze lijst kan gebruiken in een game.
 **Acdeptatie criteria:**
@@ -41,6 +42,7 @@ Het back-end project ga ik maken in het asp.net framework.
 - Een gebruiker kan vragen of opdrachten van de lijst verwijderen.
 - Een gebruiker kan vragen of opdrachten aanpassen, dit wordt gedaan om naar een andere pagina te gaan.
 - Een gebruiker kan ook de nieuw gemaakte lijst annuleren om te maken.
+- Er moet een good-flow en Bad-flow zijn getest.
 
 **US4:** Als een gebruiker wil ik een nieuw vraag of opdracht aan kunnen maken zodat ik deze kan gebruiken in mijn game.
 **Acdeptatie criteria:**
@@ -49,8 +51,10 @@ Het back-end project ga ik maken in het asp.net framework.
      - De benodigde gegevens bestaan uit: selecteren of het een vraag of opdracht is en hoeveel punten de vraag of opdracht geeft als deze goed wordt uitgevoerd.
 - Een gebruiker kan de vraag of opdracht ook direct toevoegen aan een lijst met de conditie dat er al een lijst bestaat.
 - Een gebruiker kan ook annuleren om de vraag of opdracht aan te maken.
+- Het moet getest zijn dat een Good-flow en een Bad-flow goed wordt afgehandeld.
 
 **US5:** Als een gebruiker wil ik een game eerder kunnen beëindigen zodat ik de behaalde punten kan zien.
 **Acdeptatie criteria:**
 - Een gebruiker kan de huidige game beëindigen.
 - Als de game wordt beëindigd dan wordt het scorebord weergegeven wat weergeeft hoeveel punten iedere speler heeft verdient.
+- Er moet een good-flow en Bad-flow zijn getest.
