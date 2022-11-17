@@ -3,6 +3,7 @@ Dit semester heb ik 2 projecten gemaakt, namelijk:
 1. Individueel project: PartyGame waar spelers vragen of opdrachten krijgen, die ze ook kunnen toevoegen.
 2. Groeps project: Parkeergarage digitalisering zodat je geen fysiek papiertje nodig hebt om te betalen.
 
+--------------------------------------------------
 # Leesgids
 - [Learning outcomes](#learning-outcomes)
 - [Projecten](#projecten)
@@ -14,6 +15,7 @@ Dit semester heb ik 2 projecten gemaakt, namelijk:
         - [Repositories](#repositories-gp)
 - [Research](#research)
 
+--------------------------------------------------
 # Learning outcomes 
 In dit semester heb ik 8 verschillende Learning outcomes die ik allemaal moet beoefenen. Dit zijn:
 | Learning outcome | Description |
@@ -27,8 +29,15 @@ In dit semester heb ik 8 verschillende Learning outcomes die ik allemaal moet be
 | 7. Business processes | You analyze and describe simple business processes that are related to your project. |
 | 8. Professional | You act in a professional manner during software development and learning. |
 
-Hiervan zijn er 6 van de 8 Learning outcomes ook deels te halen in het groeps project, dit zijn: 1. Web application, 3. Agile method, 5. Cultural differences and ethics, 6. Requirements and design, 7. Business processes en 8. Professional
+Hiervan zijn er 6 van de 8 Learning outcomes ook deels te halen in het groeps project, dit zijn: 
+- 1. Web application
+- 3. Agile method
+- 5. Cultural differences and ethics
+- 6. Requirements and design
+- 7. Business processes
+- 8. Professional
 
+--------------------------------------------
 # Projecten
 ## Individueel project
 Het individueel project wordt een "party game" waarbij de spelers vragen/opdrachten krijgen om te beantwoorden of uit te voeren en als de spelers dit goed doen worden ze beloond met punten. Gebruikers kunnen hiermee ook hun eigen vragen/opdrachten maken om te gebruiken in de game. Om dit een werkelijkheid te maken heb ik 3 applicaties voor in gedachte, namelijk:
@@ -60,5 +69,6 @@ Het groeps project wordt een digitalisering van het parkeergarage systeem, dit h
 - [Back-end applicatie in asp.net MVC](https://github.com/davey2206/Proftaak_S3_CMS)
 - [API applicatie in ASP.net web API](https://github.com/ParKings-inc/Proftaak_S3_API)
 
+-------------------------------------------------------
 ## Research
 //
