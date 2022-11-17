@@ -1,4 +1,4 @@
-Project PartyGame
+# **Project PartyGame**
 Het idee voor het project is om een web app te maken waar er een spel gespeeld wordt op de manier dat de spelers vragen en opdrachten krijgen die ze correct moeten uitvoeren voor punten.
 
 # API-project
