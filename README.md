@@ -5,17 +5,14 @@ Dit semester heb ik 2 projecten gemaakt, namelijk:
 
 # Leesgids
 - [Learning outcomes](#learning-outcomes)
-- Projecten
-    - Individueel project
-        - Documentatie
-        - Repositories
-    - Groep project
-        - Documentatie
-        - Repositories
-- Documentatie
-    - [Ontwerpen](#ontwerpen)
-    - [Research](#research)
-    - [User stories](#user-stories)
+- [Projecten](#projecten)
+    - [Individueel project](#individueel-project)
+        - [Documentatie](#documentatie-ip)
+        - [Repositories](#documentatie-ip)
+    - [Groep project](#groep-project)
+        - [Documentatie](#documentatie-gp)
+        - [Repositories](#repositories-gp)
+- [Research](#research)
 
 # Learning outcomes 
 In dit semester heb ik 8 verschillende Learning outcomes die ik allemaal moet beoefenen. Dit zijn:
@@ -30,6 +27,8 @@ In dit semester heb ik 8 verschillende Learning outcomes die ik allemaal moet be
 | 7. Business processes | You analyze and describe simple business processes that are related to your project. |
 | 8. Professional | You act in a professional manner during software development and learning. |
 
+Hiervan zijn er 6 van de 8 Learning outcomes ook deels te halen in het groeps project, dit zijn: 1. Web application, 3. Agile method, 5. Cultural differences and ethics, 6. Requirements and design, 7. Business processes en 8. Professional
+
 # Projecten
 ## Individueel project
 Het individueel project wordt een "party game" waarbij de spelers vragen/opdrachten krijgen om te beantwoorden of uit te voeren en als de spelers dit goed doen worden ze beloond met punten. Gebruikers kunnen hiermee ook hun eigen vragen/opdrachten maken om te gebruiken in de game. Om dit een werkelijkheid te maken heb ik 3 applicaties voor in gedachte, namelijk:
@@ -37,7 +36,11 @@ Het individueel project wordt een "party game" waarbij de spelers vragen/opdrach
 2. Back-end ASP.net MVC project voor een CMS waar je nieuwe vragen/opdrachten kan aanmaken of verwijderen van spelers als deze te erg van inhoud zijn.
 3. ASP.Net Web API voor het opslaan en ophalen van data in de database.
 
-**Repositories**
+##### **Documentatie IP**
+- [User stories IP](https://github.com/Espilonius/Portofolio-S3/Documentatie/User_Stories/Individueel)
+- [Ontwerpen IP](https://github.com/Espilonius/Portofolio-S3/Documentatie/Ontwerpen/Individueel)
+
+##### **Repositories IP**
 - [Front-end applicatie in React.js](https://github.com/Espilonius/front-end_PartyGame_S3)
 - [Back-end applicatie in asp.net MVC](//)
 - [API applicatie in asp.net web api](https://github.com/Espilonius/API_PartyGame_S3)
@@ -48,16 +51,14 @@ Het groeps project wordt een digitalisering van het parkeergarage systeem, dit h
 2. Back-end ASP.net MVC project voor een CMS waar je reserveringen kan accepteren en de parkeergarage informatie kan aanpassen.
 3. ASP.Net Web API voor het opslaan en ophalen van data in de database.
 
-**Repositories**
+##### **Documentatie GP**
+- [User stories GP](https://github.com/Espilonius/Portofolio-S3/Documentatie/User_Stories/Groep_Proftaak)
+- [Ontwerpen GP](https://github.com/Espilonius/Portofolio-S3/Documentatie/Ontwerpen/Groep_Proftaak)
+
+##### **Repositories GP**
 - [Front-end applicatie in React.js voor de gebruikers](https://github.com/ParKings-inc/proftaak_s3_front-end)
 - [Back-end applicatie in asp.net MVC](https://github.com/davey2206/Proftaak_S3_CMS)
 - [API applicatie in ASP.net web API](https://github.com/ParKings-inc/Proftaak_S3_API)
 
-## Documentatie
-### Ontwerpen
+## Research
 //
-### Research
-//
-### User stories
-- [Individueel project](https://github.com/Espilonius/Portofolio-S3/Documentatie/User_Stories/Individueel)
-- [Groeps project](https://github.com/Espilonius/Portofolio-S3/Documentatie/User_Stories/Groep_Proftaak)
