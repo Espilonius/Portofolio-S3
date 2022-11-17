@@ -1,7 +1,6 @@
 # Portofolio semester 3 Fontys HBO-ICT
-Dit semester heb ik 2 projecten gemaakt, namelijk:
-1. Individueel project: PartyGame waar spelers vragen of opdrachten krijgen, die ze ook kunnen toevoegen.
-2. Groeps project: Parkeergarage digitalisering zodat je geen fysiek papiertje nodig hebt om te betalen.
+Dit portofolio is voo mijn semester 3 van Fontys HBO-ICT. Wat hier allemaal in zal komen te staan is wat ik allemaal heb gemaakt, onderzocht en aan heb deelgenomen in dat tijdvak. 
+Voor een semester van Fontys heb je meestal 2 projecten wat bestaat uit een individueel project en een groep proftaak, dat is dit semester niet anders. Daarover leest u hieronder verder.
 
 --------------------------------------------------
 # Leesgids
@@ -45,11 +44,11 @@ Het individueel project wordt een "party game" waarbij de spelers vragen/opdrach
 2. Back-end ASP.net MVC project voor een CMS waar je nieuwe vragen/opdrachten kan aanmaken of verwijderen van spelers als deze te erg van inhoud zijn.
 3. ASP.Net Web API voor het opslaan en ophalen van data in de database.
 
-##### **Documentatie IP**
+#### **Documentatie IP**
 - [User stories IP](https://github.com/Espilonius/Portofolio-S3/Documentatie/User_Stories/Individueel)
 - [Ontwerpen IP](https://github.com/Espilonius/Portofolio-S3/Documentatie/Ontwerpen/Individueel)
 
-##### **Repositories IP**
+#### **Repositories IP**
 - [Front-end applicatie in React.js](https://github.com/Espilonius/front-end_PartyGame_S3)
 - [Back-end applicatie in asp.net MVC](//)
 - [API applicatie in asp.net web api](https://github.com/Espilonius/API_PartyGame_S3)
@@ -60,11 +59,11 @@ Het groeps project wordt een digitalisering van het parkeergarage systeem, dit h
 2. Back-end ASP.net MVC project voor een CMS waar je reserveringen kan accepteren en de parkeergarage informatie kan aanpassen.
 3. ASP.Net Web API voor het opslaan en ophalen van data in de database.
 
-##### **Documentatie GP**
+#### **Documentatie GP**
 - [User stories GP](https://github.com/Espilonius/Portofolio-S3/Documentatie/User_Stories/Groep_Proftaak)
 - [Ontwerpen GP](https://github.com/Espilonius/Portofolio-S3/Documentatie/Ontwerpen/Groep_Proftaak)
 
-##### **Repositories GP**
+#### **Repositories GP**
 - [Front-end applicatie in React.js voor de gebruikers](https://github.com/ParKings-inc/proftaak_s3_front-end)
 - [Back-end applicatie in asp.net MVC](https://github.com/davey2206/Proftaak_S3_CMS)
 - [API applicatie in ASP.net web API](https://github.com/ParKings-inc/Proftaak_S3_API)
