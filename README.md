@@ -21,7 +21,7 @@ Het groeps project wordt een digitalisering van het parkeergarage systeem, dit h
 - [Front-end applicatie in React.js voor de Admins](https://github.com/davey2206/Proftaak_S3_CMS)
 
 ## Documentatie
-### Onderzoek
+### Ontwerpen
 //
 ### Research
 //
