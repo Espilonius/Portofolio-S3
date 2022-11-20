@@ -1,1 +1,1 @@
-![Project architectuur](./Pictures/school/S3_proftaak/ArchitectuurGroepProject.png)
+![ArchitectuurGroepProject](https://user-images.githubusercontent.com/58418773/202921867-bb5dda5a-611b-487a-ac50-f2d8e30d9f60.png)
