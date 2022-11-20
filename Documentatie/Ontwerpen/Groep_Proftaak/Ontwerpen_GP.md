@@ -1,0 +1,1 @@
+![Project architectuur](./Pictures/school/S3_proftaak/ArchitectuurGroepProject.png)

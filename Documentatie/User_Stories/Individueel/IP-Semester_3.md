@@ -20,18 +20,32 @@ Overige requests die kunnen worden gedaan:
 
 Het back-end project ga ik maken in het asp.net framework.
 
+------------------------------------------------------------
 # User stories
-**US1:** Een gebruiker kan inloggen zodat er van alle services gebruik kan worden gemaakt.
+#### **US1:** Een gebruiker kan inloggen zodat er van alle services gebruik kan worden gemaakt.
 
-**Acceptatie criteria:**
+##### Omschrijving
+Als gebruiker wil ik graag inkunnen loggen zodat ik gewenste dingen kan opslaan en terughalen.
+
+##### **Acceptatie criteria:**
 - Een gebruiker kan inloggen door de benodigde identificatiegegevens in te voeren, doormiddel van UserID 0auth google (Naam & e-mailadres).
 - na succesvol inloggen kan de gebruiker gebruik maken van alle services.
 - na onsuccesvol inloggen wordt er een melding gegeven aan de gebruiker dat de gegevens onjuist zijn.
 - Er moet een good-flow en Bad-flow zijn getest.
 
-**US2:** Als een gebruiker wil ik een nieuw game starten zodat ik dit met een groep kan doen.
+##### **Definition of ready**
+Werkomgeving is opgezet, architectuur is uit geplanned.
 
-**Acceptatie criteria:**
+##### **Definition of done**
+Alle acceptatiecriteria punten zijn functioneel.
+
+------------------------------------------------------------
+#### **US2:** Als een gebruiker wil ik een nieuw game starten zodat ik dit met een groep kan doen.
+
+##### Omschrijving
+Als gebruiker wil ik graag dat ik een nieuwe game kan starten met nieuwe spelers en andere vragen/opdrachten.
+
+##### **Acceptatie criteria:**
 - Een gebruiker kan een nieuw game starten door middel van de benodigde velden in te vullen.
 
      - De benodigde velden bestaan uit: welke vragen er in kunnen zitten, welke opdrachten er in de game kunnen zitten, hoeveel rondes er moeten worden gespeeld en met hoeveel spelers de game wordt gespeeld.
@@ -39,18 +53,38 @@ Het back-end project ga ik maken in het asp.net framework.
 - Als niet alle benodigde velden zijn ingevuld dan wordt er een melding gegeven aan de gebruiker dat er geen nieuw spel kan worden gestart.
 - Er moet een good-flow en Bad-flow zijn getest.
 
-**US3:** Als een gebruiker wil ik de optie hebben om een nieuwe lijst aan te maken van vragen of opdrachten zodat ik deze lijst kan gebruiken in een game.
+##### **Definition of ready**
+Werkomgeving is opgezet, architectuur is uit geplanned.
 
-**Acceptatie criteria:**
+##### **Definition of done**
+Alle acceptatiecriteria punten zijn functioneel.
+
+------------------------------------------------------------
+#### **US3:** Als een gebruiker wil ik de optie hebben om een nieuwe lijst aan te maken van vragen of opdrachten zodat ik deze lijst kan gebruiken in een game.
+
+##### Omschrijving
+Als gebruiker wil ik graag dat ik vragen en opdrachten kan opslaan in een lijst om ze makkelijker en sneller te gebruiken.
+
+##### **Acceptatie criteria:**
 - Een gebruiker kan een nieuwe lijst aanmaken met de gekozen vragen of opdrachten.
 - Een gebruiker kan vragen of opdrachten van de lijst verwijderen.
 - Een gebruiker kan vragen of opdrachten aanpassen, dit wordt gedaan om naar een andere pagina te gaan.
 - Een gebruiker kan ook de nieuw gemaakte lijst annuleren om te maken.
 - Er moet een good-flow en Bad-flow zijn getest.
 
-**US4:** Als een gebruiker wil ik een nieuw vraag of opdracht aan kunnen maken zodat ik deze kan gebruiken in mijn game.
+##### **Definition of ready**
+Werkomgeving is opgezet, architectuur is uit geplanned.
 
-**Acceptatie criteria:**
+##### **Definition of done**
+Alle acceptatiecriteria punten zijn functioneel.
+
+------------------------------------------------------------
+#### **US4:** Als een gebruiker wil ik een nieuw vraag of opdracht aan kunnen maken zodat ik deze kan gebruiken in mijn game.
+
+##### Omschrijving
+Als een gebruiker wil ik graag een nieuwe vraag of opdracht aanmaken of aanpassen om te kunnen gebruiken in een game.
+
+##### **Acceptatie criteria:**
 - Een gebruiker kan een nieuwe vraag of opdracht aanmaken met de benodigde gegevens.
 
      - De benodigde gegevens bestaan uit: selecteren of het een vraag of opdracht is en hoeveel punten de vraag of opdracht geeft als deze goed wordt uitgevoerd.
@@ -58,9 +92,25 @@ Het back-end project ga ik maken in het asp.net framework.
 - Een gebruiker kan ook annuleren om de vraag of opdracht aan te maken.
 - Het moet getest zijn dat een Good-flow en een Bad-flow goed wordt afgehandeld.
 
-**US5:** Als een gebruiker wil ik een game eerder kunnen beëindigen zodat ik de behaalde punten kan zien.
+##### **Definition of ready**
+Werkomgeving is opgezet, architectuur is uit geplanned.
 
-**Acceptatie criteria:**
+##### **Definition of done**
+Alle acceptatiecriteria punten zijn functioneel.
+
+------------------------------------------------------------
+#### **US5:** Als een gebruiker wil ik een game eerder kunnen beëindigen zodat ik de behaalde punten kan zien.
+
+##### Omschrijving
+Als  gebruiker wil ik graag een game eerder kan beëndigen omdat er misschien niet meer geboeg tijd is om het af te maken of er niet meer genoeg animo voor is.
+
+##### **Acceptatie criteria:**
 - Een gebruiker kan de huidige game beëindigen.
 - Als de game wordt beëindigd dan wordt het scorebord weergegeven wat weergeeft hoeveel punten iedere speler heeft verdient.
 - Er moet een good-flow en Bad-flow zijn getest.
+
+##### **Definition of ready**
+Werkomgeving is opgezet, architectuur is uit geplanned.
+
+##### **Definition of done**
+Alle acceptatiecriteria punten zijn functioneel.
