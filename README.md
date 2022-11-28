@@ -60,6 +60,7 @@ Bij mijn groeps project let ik hierbij op dat iedereen een mening heeft en daar 
 
 ### Requirements and design
 [Ontwerpen IP](https://github.com/Espilonius/Portofolio-S3/blob/main/Documentatie/Ontwerpen/Individueel/Ontwerpen_IP.md)
+
 [Ontwerpen GP](https://github.com/Espilonius/Portofolio-S3/blob/main/Documentatie/Ontwerpen/Groep_Proftaak/Ontwerpen_GP.md)
 
 ### Business proceses
