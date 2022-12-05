@@ -40,6 +40,7 @@ Voorbeelden hiervan zijn de website van Faitrade Nederland waar de nadruk wordt 
 User experience en user interface zijn twee verschillende specialismen. Bedrijven adverteren vaak met vacatures voor UX/UI-designers, waarom gebeurt dit? UX- en UI-designers zijn voornamelijk actief in de design- en techwereld. Daar buiten kom je deze functies niet snel tegen. Hierdoor kan het zijn dat bedrijfsleiders, HR-medewerkers en recuiters het verschil niet weten; zij denken juist dat dit werk gedaan wordt door één persoon. Echter is er hier niet altijd sprake van een misverstand. Sommige bedrijven zoeken nu eenmaal een designer die beide beide rollen op zich kan nemen.
 
 ![afbeelding](https://user-images.githubusercontent.com/58418773/205610591-f49e9100-139b-4ca3-a05a-9a81c6801810.png)
+
 UX- en UI-designers hebben duidelijk een ander takenpakket. Ze vullen elkaar aan.
 
 ---
