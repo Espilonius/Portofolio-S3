@@ -57,7 +57,8 @@ Als gebruiker wil ik graag dat ik een nieuwe game kan starten met nieuwe spelers
 Werkomgeving is opgezet, architectuur is uit geplanned.
 
 ##### **Definition of done**
-Alle acceptatiecriteria punten zijn functioneel.
+- Alle acceptatiecriteria punten zijn functioneel.
+- De API moet op zijn gezet met database en de connectie ertussen doormiddel van de API
 
 ------------------------------------------------------------
 #### **US3:** Als een gebruiker wil ik de optie hebben om een nieuwe lijst aan te maken van vragen of opdrachten zodat ik deze lijst kan gebruiken in een game.
