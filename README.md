@@ -70,6 +70,8 @@ Om dit juist te doen gebruiken we de sprints in het Scrum process waar we aan he
 ### Professional
 Om een goed lopend process te hebben met een team moet iedereen zich op een professioneel nieveau gedragen, dit wordt gedaan door aan het begin van een sprint naar de user stories te kijken van welke er af moeten zijn aan het einde van de sprint en daaruit worden de taken verdeeld tussen de groepsleden. We houden elkaar hierbij ook in de gate dat iedereen zijn taken goed uitvoerd en dat ze anders om hulp vragen bij een taak als het niet lukt. In het team voordat we een dag beginnen hebben we stand-ups en stand-downs wat betekent dat stand-ups doet aan het begin van de dag waarbij je aangeeft wat je gaat doen en of je ergens hulp bij nodig hebt en bij stand-downs wat is gelukt om af te krijgen op de dag en wat er niet goed ging en juist ook wat wel goed ging.
 
+Voor dit semester moeten ook een aantal onderzoeken worden gemaakt die hieronder kunnen worden gevonden bij [Research](#research)
+
 --------------------------------------------
 # Projecten
 ## Individueel project
@@ -107,4 +109,4 @@ Het groeps project wordt een digitalisering van het parkeergarage systeem, dit h
 
 -------------------------------------------------------
 ## Research
-//
+- [UX research](https://github.com/Espilonius/Portofolio-S3/blob/main/Documentatie/Research/Research_UX.md)
