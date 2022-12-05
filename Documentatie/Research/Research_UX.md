@@ -67,6 +67,7 @@ Enkele voordelen die met een goede gebruikerservaring bereikt kunnen worden zijn
     Om een applicatie zoveel mogelijk te beschermen van ‘kinderziektes’ is het verantwoord om eerst een beta-versie op de markt te brengen. Een select groepje komt vervolgens met waardevolle feedback voor het verbeteren van de app, nog voor je deze aan het grote publiek toont.
 
 2.	Lagere servicekosten
+
 Je kunt een hoop geld besparen op aanvullende services door het gebruik van een app. Klanten willen 24/7 in contact staan met de onderneming, ongeacht waar jij bent of waar zij zijn. Worden er belangrijke telefoonnummers geïntegreerd waardoor de klant in één keer met de goede persoon in contact komt? Of wordt er gekozen voor een livechat functie om direct al de klanten van dienst te zijn? Deze oplossingen kunnen ook gecombineerd worden.
 Dit zorgt ervoor dat de juiste persoon altijd bereikbaar is voor de klant en er minder personeel nodig is om de klant van dienst te zijn.
 3.	Stijging in de verkoop
