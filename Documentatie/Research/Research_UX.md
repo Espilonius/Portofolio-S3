@@ -69,16 +69,17 @@ Enkele voordelen die met een goede gebruikerservaring bereikt kunnen worden zijn
 
 2.	Lagere servicekosten
 
-Je kunt een hoop geld besparen op aanvullende services door het gebruik van een app. Klanten willen 24/7 in contact staan met de onderneming, ongeacht waar jij bent of waar zij zijn. Worden er belangrijke telefoonnummers geïntegreerd waardoor de klant in één keer met de goede persoon in contact komt? Of wordt er gekozen voor een livechat functie om direct al de klanten van dienst te zijn? Deze oplossingen kunnen ook gecombineerd worden.
-Dit zorgt ervoor dat de juiste persoon altijd bereikbaar is voor de klant en er minder personeel nodig is om de klant van dienst te zijn.
+    Je kunt een hoop geld besparen op aanvullende services door het gebruik van een app. Klanten willen 24/7 in contact staan met de onderneming, ongeacht waar jij bent of waar zij zijn. Worden er belangrijke telefoonnummers geïntegreerd waardoor de klant in één keer met de goede persoon in contact komt? Of wordt er gekozen voor een livechat functie om direct al de klanten van dienst te zijn? Deze oplossingen kunnen ook gecombineerd worden.
+    Dit zorgt ervoor dat de juiste persoon altijd bereikbaar is voor de klant en er minder personeel nodig is om de klant van dienst te zijn.
+
 3.	Stijging in de verkoop
 
     Een goed ontwikkelde app zal meer interactie met de gebruiker hebben dan een app die niet logisch in elkaar zit. Slaagt de applicatie erin om gebruikers aan te trekken en vervolgens ook nog te behouden, dan is het waarschijnlijk dat zij meer gaan afnemen en een positieve recensie achter laten.
-Deze laatste wordt steeds belangrijker: veel positieve recensies staat over het algemeen gelijk aan een goede app. Tevreden consumenten zijn eerder geneigd om mond-op-mondreclame te maken bij vrienden en familie als zij vinden date deze waarde toevoegt aan hun leven.
+    Deze laatste wordt steeds belangrijker: veel positieve recensies staat over het algemeen gelijk aan een goede app. Tevreden consumenten zijn eerder geneigd om mond-op-mondreclame te maken bij vrienden en familie als zij vinden date deze waarde toevoegt aan hun leven.
 4.	Concurrentievoordeel
 
     Het wiel is al meerdere keren uitgevonden, de concurrentie is overal om ons heen en  consumenten worden overspoeld met applicaties. Het is daarom belangrijk dat een app zichzelf differentieert van al de anderen. Hiermee wordt een concurrentievoordeel ontwikkeld aangezien de app iets heeft wat de concurrentie niet heeft. De consument zal daardoor de app gaan zien als iets wat beter is dan de andere. Pas wel op: het onderscheiden van jouw app klinkt makkelijker dan het in de praktijk is.
-Er zijn tegenwoordig veel trucjes om je app op te laten vallen, maar je doet jezelf er goed aan als de gebruikers vanaf het begin bij het ontwikkelproces betrokken zijn om de app tot een succes te maken. Gebruiksvriendelijkheid gaat voor alles en gebruikers worden nou eenmaal aangetrokken tot apps die hen leveren wat zij willen.
+    Er zijn tegenwoordig veel trucjes om je app op te laten vallen, maar je doet jezelf er goed aan als de gebruikers vanaf het begin bij het ontwikkelproces betrokken zijn om de app tot een succes te maken. Gebruiksvriendelijkheid gaat voor alles en gebruikers worden nou eenmaal aangetrokken tot apps die hen leveren wat zij willen.
 
 ## **Wat is het belang van research?**
 Research is uitermate belangrijk voor een goede UX. Er moet goed onderzocht worden voordat er aan de ontwikkeling van de app wordt begonnen. Hieruit komen een hoop waardevolle inzichten en je bespaart ook nog eens op de kosten en frustraties achteraf.
@@ -99,3 +100,21 @@ UX is belangrijk voor een website om een gebruikerbasis te behouden, zodat de we
 - [UX en UI design.](https://linku.nl/ux-en-ui-design/)
 - [Verschil tussen UX en UI.](https://www.webheads.nl/webdesign/wat-is-het-verschil-tussen-ux-en-ui/)
 - [Focus op gebruikerservaring.](https://webuildapps.com/blog/user-experience-focus-op-gebruikerservaring)
+
+
+-----------------------------------------------------
+# Individueel UX
+Voor het individuele project van S3 moet er ook ontwerpen worden gemaakt hierbij komt ook UX van toepassing. Hierin beschrijf ik op welke manier ik UX gebruik in mijn individueel project.
+
+## Welke UX manieren gebruik ik
+In het individueel project wordt er gebruik gemaakt van kleinschalig mensen de applicatie te laten testen, onderzoeken wat de consumenten liever hebben.
+
+- Testen: dit wordt gedaan zodat de ontwerpers weten hoe mensen omgaan met applicatie en een beter zicht kunnen krijgen over de flow of mogelijke bugs.
+- onderzoek: door onderzoek te doen naar de waardes van consumenten kan je erachter komen wat een consument eigenlijk wil en wil doen in de applicatie.
+
+## Hoe worden de manieren gebruikt
+- Testen gebeurt kleinschalig met familie en vrienden waar aan wordt gevraagt van op welke manier ze de applicatie zouden gebruiken en wat niet fijn was om te gebruiken.
+- Onderzoek gebeurt voor het implementeren van de flow van de applicatie en wat verantwoord is om te doen voor de consument.
+
+## Ontwerpen
+[Ontwerpen](https://github.com/Espilonius/Portofolio-S3/blob/main/Documentatie/Ontwerpen/Individueel/Ontwerpen_IP.md)
