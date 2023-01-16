@@ -38,11 +38,13 @@ Het individueel project wordt een "party game" waarbij de spelers vragen/opdrach
 #### **Repositories IP**
 - [Front-end applicatie in React.js](https://github.com/Espilonius/front-end_PartyGame_S3)
 - [API applicatie in asp.net web api voor game data](https://github.com/Espilonius/GameService_S3_Individueel)
-- [API applicatie in asp.net web api voor question data](//)
-- [API applicatie in asp.net web api voor command data](//)
+- [API applicatie in asp.net web api voor question data](https://github.com/Espilonius/QuestionService_S3_Individueel)
 
 #### **Scrum bord**
 [Jira scrum bord](https://s3-gp-groep2.atlassian.net/jira/software/projects/SP/boards/2)
+
+![afbeelding](https://user-images.githubusercontent.com/58418773/212630107-3c781ff1-3162-4ffc-bd58-3ed8b19e800f.png)
+Overzicht van het Jira bord.
 
 ## Groep project
 Het groeps project wordt een digitalisering van het parkeergarage systeem, dit hebben we opdracht gekregen van [Mediaan](https://mediaan.com/nl). Om dit werkelijkheid te maken hebben wij 3 applicaties voor, namelijk:
