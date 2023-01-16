@@ -1,7 +1,7 @@
 # User Experience onderzoek
 
 # Reading guide
-- [Waarom is UX zo belangrijk voor een website?](#waarom-is-ux-zo-belangrijk-voor-een-website)
+- [Op welke manier kan ik UX gebruiken zodat het goed past in het project?](#op-welke-manier-kan-ik-ux-gebruiken-zodat-het-goed-past-in-het-project)
 - [Wat is UX?](#wat-is-ux)
 - [Verschillen binnen UX: Researcher vs.Designer.](#verschillen-binnen-ux-researcher-vs-designer)
 - [Wat is UI?](#wat-is-ui)
@@ -12,14 +12,14 @@
 - [Conclusie](#conclusie)
 - [Resources](#resources)
 
-## **Waarom is UX zo belangrijk voor een website?**
+## **Op welke manier kan ik UX gebruiken zodat het goed past in het project?**
 Wat is UX nu eigenlijk en waarom moet er zoveel aandacht in worden gestoken of tenminste aandacht aan besteed worden voor een project, UX staat voor User Experience en zoals de naam al zegt gaat het over hoe een bezoeker of gebruiker een applicatie ervaart wat door de jaren heen steeds belangrijker is geworden. 
-Waarom is dat, dat komt omdat er tegenwoordig zoveel websites zijn die de gebruikers proberen aan te trekken door hun design of titels. De media is tegenwoordig bedoelt voor consumptie wat inhoud dat er voor een gebruiker heel veel verschillende onderwerpen worden gegeven, zodat de gebruiker zoveel mogelijk ziet wat voor een website voordelig is.
+Waarom is dat, dit komt omdat er tegenwoordig zoveel websites zijn die de gebruikers proberen aan te trekken door hun design of titels. De media is tegenwoordig bedoelt voor consumptie wat inhoud dat er voor een gebruiker heel veel verschillende onderwerpen worden gegeven, zodat de gebruiker zoveel mogelijk ziet wat voor een website voordelig is.
 Waarom is dan de UX zo belangrijk hiervoor, dat is omdat als een website op lange termijn populair wil zijn of een goede gebruiker basis  wil hebben dan is hiervoor de UX van groot belang.
 
 ---
 ## **Wat is UX?**
-Zoals in het vorige paragraaf besproken staat UX voor User Experience, wat gebruikerservaring betekent. Bij UX-design staat daarom de ervaring van de eindgebruiker, degene die het product gebruikt, centraal. Dit kan dan gelden voor een website, app of tastbaar product zoals een mobiele telefoon.
+Zoals in de vorige paragraaf besproken staat UX voor User Experience, wat gebruikerservaring betekent. Bij UX-design staat daarom de ervaring van de eindgebruiker, degene die het product gebruikt, centraal. Dit kan dan gelden voor een website, app of tastbaar product zoals een mobiele telefoon.
 Een ‘user experience designer’ bekijkt naar de belangen van een klant en of dat deze worden voldaan en stelt aanpassingen voor waar nodig. Het uiteindelijk doel van een UX-designer is dan ook de complete gebruikerservaring te optimaliseren, van bewustwording tot het product aanbevelen aan vrienden. Dit heet ook wel de customer journey. Doordat de UX-designer constant bezig is met het totaalplaatje, kan hierdoor de gebruiksvriendelijkheid worden gegarandeerd. Daarom is het van belang om een UX-designer met het gehele proces mee te laten draaien: van strategisch plan tot optimalisatie van het product ver na de oplevering.
 
 ---

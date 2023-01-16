@@ -1,6 +1,7 @@
 # CSRF onderzoek
 
 # Reading guide
+- [Hoe kan ik CSRF gebruiken om het project extra te beveiligen?](#hoe-kan-ik-csrf-gebruiken-om-het-project-extra-te-beveiligen)
 - [Wat is CSRF?](#wat-is-csrf)
 - [Hoe kan een CSRF aanval worden weerstaan?](#hoe-kan-een-csrf-aanval-worden-weerstaan)
     - [Wat is een CSRF aanval?](#wat-is-een-csrf-aanval)
@@ -10,6 +11,9 @@
 - [Resources](#resources)
 
 ---
+## **Hoe kan ik CSRF gebruiken om het project extra te beveiligen?**
+Om het project extra te kunnen beveiligen kan er voor veel verschillenden manieren gekozen worden zoals CSRF. Maar hoe werkt CSRF en hoe kan dit geïmplementeerd worden in dit project? Om daar achter te komen is het belangrijk im eerst te weten wat CSRF is en wat het precies doet.
+
 ## **Wat is CSRF?**
 CSRF staat voor Cross-Site Request Forgery, dit is een type kwetsbaarheid waarbij de aanvaller misbruik maakt van een actieve gebruikerssessie. Hiermee kan de aanvaller je acties laten uitvoeren zonder dat je er erg in hebt. Zoals bijvoorbeeld op een linkje klinken waarbij dan wachtwoorden worden doorgegeven.
 
@@ -81,6 +85,10 @@ Vervolgens zorg ik ervoor dat ik de request opvang met Burp Suite, hierin kan ik
 Als ik nu de request doorstuur naar de webpagina zul je zien dat hij nu geaccepteerd word.
 
 ![Code_PWC](https://user-images.githubusercontent.com/58418773/208436096-a29b52f1-da4f-4201-96f1-aaf946a5edc8.png)
+
+---
+## **conclusie**
+Om de applicatie te beveiligen voor CSRF aanvallen zijn er unieke keys nodig die gebonden zijn aan de gebruiker. hiermee controleert de applicatie dus of de request die wordt gestruurd naar de applicatie of die ook echt van de gebuiker is en niet van een gebruiker met kwaadaardige intenties. beveiliging voor CSRF is daarom dus goed omdat het voorkomt dat er schade aan de applicatie wordt gericht en dat het ook geen problemen voor de gebruiker opleverd. Pluspunt van het .Net framework is dat hier al built-in CSRF support in zit.
 
 ---
 ### **Resources**
