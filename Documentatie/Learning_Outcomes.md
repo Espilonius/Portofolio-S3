@@ -12,12 +12,15 @@ In dit semester heb ik 8 verschillende Learning outcomes die ik allemaal moet be
 
 ### Web application
 Voor Dit semester maak ik een web applicatie die het doel heeft om gebruikt te worden tussen vrienden, de applicatie geeft vragen of opdrachten aan de spelers waarbij ze punten kunnen verdienen als deze goed worden beantwoord of uitgevoerd.
-Hiervoor heb ik 3 applicaties gemaakt die u hier kan vinden "[IP Repositories](#documentatie-ip)".
+Hiervoor heb ik 3 applicaties gemaakt.
 
-Voor het groeps project dit semester maken we een digitalisatie van een parkeergarage, om dit te kunnen bereiken hebben we met de groep 3 applicaties gemaakt die u hier kan vinden "[Repositories](#repositories-gp)".
+Voor het groeps project dit semester maken we een digitalisatie van een parkeergarage, om dit te kunnen bereiken hebben we met de groep 3 applicaties gemaakt.
 
 ### Software quality
-//
+Om de Software quality te controleren gebruik ik het testplatform Sonarcloud die static code analysis doet, dit wordt uitgevoerd als de code naar github wordt gepusht, en UnitTest in het project zelf. Hierdoor wordt gezorgt dat de code ook van een bepaald niveau is door het op verschillende manieren te testen, hieronder zijn een good en bad-flow een voorbeeld van.
+
+![afbeelding](https://user-images.githubusercontent.com/58418773/212583194-628d5fac-d9b6-496a-98b9-a3dd8e0203e9.png)
+Dit is hoe het dashboard op Sonarcloud eruit ziet.
 
 ### Agile method
 Om de werkwijze van mijn individueel project gestructureerd bij te kunnen houden gebruik ik de Scrum werkwijze. Hiervoor heb ik een Scrum bord aangemaakt op Jira waar ik de [user stories](https://github.com/Espilonius/Portofolio-S3/Documentatie/User_Stories/Individueel) bijhoud met de onderliggende acceptatiecriteria.
@@ -25,7 +28,7 @@ Om de werkwijze van mijn individueel project gestructureerd bij te kunnen houden
 Voor het groeps project gebruiken we als groep ook de Scrum methode, die we bijhouden met een Scrum bord op Jira waar we de [user stories](https://github.com/Espilonius/Portofolio-S3/Documentatie/User_Stories/Groep_Proftaak) bijhoudenmet de onderliggende acceptatiecriteria.
 
 ### CI/CD
-//
+Om de CI/CD zo automatisch te laten verlopen wordt er gebruik gemaakt van Github Actions, dit zorgt ervoor dat github zelf controllert wanneer er commit worden gemaakt en dan automatisch de test laat lopen en het project dan ook pusht naar de cloud of een server zoals bijvoorbeeld als een Docker image.
 
 ### Cultural differences and ethics
 Om de verschillen van mensen in de gate te houden moet er ook gekeken worden naar wat zijn diegene gewent of met welke cultuur groot gebracht. Je moet hierbij erg opletten dat iedereen gebruik kan maken op een etisch neutrale manier, anders worden mensen niet op hun gemak gebrengt met het gebruik van je applicatie.
